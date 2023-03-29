@@ -1,0 +1,34 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+.heading{
+    width: 100%;
+    font-size: 35px;
+    margin-top: 0;
+    border: 5px solid rgba(0, 0, 0, 0.63);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.note{
+    width: 100%;
+    font-size: 20px;
+   margin-top: 0;
+    border: 5px solid rgba(0, 0, 0, 0.63);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#input1{
+    width: min-content;
+}
+label{
+    color: aliceblue;
+    font-weight: bolder;
+}
+#labela,#labelo{
+    color: aliceblue;
+    font-weight: 300px;
+}
+canvas{
+    border: 2px solid white;
+    box-shadow: 5px 5px 5px white;
+    border-radius: 100%;
+}
